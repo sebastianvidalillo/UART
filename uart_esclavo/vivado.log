@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Wed Jun 14 05:50:45 2017
+# Process ID: 4272
+# Current directory: D:/Universidad/LAB_DIGITALES/Examples/ELO212-example-modules-master/uart_esclavo
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8292 D:\Universidad\LAB_DIGITALES\Examples\ELO212-example-modules-master\uart_esclavo\uart_esclavo.xpr
+# Log file: D:/Universidad/LAB_DIGITALES/Examples/ELO212-example-modules-master/uart_esclavo/vivado.log
+# Journal file: D:/Universidad/LAB_DIGITALES/Examples/ELO212-example-modules-master/uart_esclavo\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Universidad/LAB_DIGITALES/Examples/ELO212-example-modules-master/uart_esclavo/uart_esclavo.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2016.4/data/ip'.
+open_project: Time (s): cpu = 00:00:25 ; elapsed = 00:00:18 . Memory (MB): peak = 764.141 ; gain = 122.223
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Jun 14 06:08:41 2017...
